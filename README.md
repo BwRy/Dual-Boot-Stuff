@@ -1,1 +1,3 @@
-# Dual-Boot-Stuff
+Note that all this stuff is not mine. All credits go to their respective owners...
+
+This is just all the stuff that I've been using to boot different iOS versions on a single device.
