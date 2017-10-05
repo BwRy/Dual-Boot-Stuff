@@ -20,5 +20,3 @@ Good links to use are:
 	-Zeex: ida_patcher
 
 	-iH8Sn0w: iBoot32Patcher
-
-	
