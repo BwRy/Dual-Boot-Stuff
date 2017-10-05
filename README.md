@@ -21,3 +21,5 @@ Good links to use are:
 	-Zeex: ida_patcher
 
 	-iH8Sn0w: iBoot32Patcher
+	
+	-Axi0mX: kloader 32-bit (4.0-9.3.5) 64-bit (7.0-8.4.1)
