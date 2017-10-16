@@ -3,8 +3,8 @@ Note that all this stuff is not mine. All credits go to their respective owners.
 This is just all the stuff that I've been using to boot different iOS versions on a single device.
 
 Good links to use are: 
-  - Nyan Satan's Dual Boot Guide https://nyansatan.github.io/dualboot/
-  - ShadowLee19's Dual/Triple Boot Guide: http://www.pmbonneau.com/apple/ios/multiboot.php (Use Google Translate if you don't know French)
+  - Nyan Satan's Dual Boot Guide https://nyansatan.github.io/dualboot/ Cydia Repo: nyansatan.github.io/apt
+  - ShadowLee19's Dual/Triple Boot Guide: http://www.pmbonneau.com/apple/ios/multiboot.php (Use Google Translate if you don't know French) Cydia Repo: pmbonneau.com/cydia
   
   Credits:
   
