@@ -10,11 +10,11 @@ Good links to use are:
   
 	-Nyan Satan: Dual boot guide, WayOut, Dualbootstuff via Cydia repo, and for helping me :D
 	
-	-Xerub: Dmg from xpwn
+	-Planetbeing: Dmg, Imagetool, Ibootim, Xpwntool from xpwn
 	
 	-Danzatt: Reimagine
 
-	-Jonathan Levin: Imagine
+	-Jonathan Levin: Imagine, Jtool
 
 	-Darwin-On-Arm: Image3maker
 
@@ -23,3 +23,5 @@ Good links to use are:
 	-iH8Sn0w: iBoot32Patcher
 	
 	-Axi0mX: kloader 32-bit (4.0-9.3.5) 64-bit (7.0-8.4.1)
+	
+	-Jonathan Seals: Helped clear some things up for me :D
