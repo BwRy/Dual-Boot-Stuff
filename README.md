@@ -1,6 +1,6 @@
 Note that all this stuff is not mine. All credits go to their respective owners...
 
-This is just all the stuff that I've been using to boot different iOS versions on a single device.
+All patches are done by me.
 
 Good links to use are: 
   - Nyan Satan's Dual Boot Guide https://nyansatan.github.io/dualboot/ Cydia Repo: nyansatan.github.io/apt
