@@ -2,7 +2,7 @@ Note that all this stuff is not mine. All credits go to their respective owners.
 
 All patches are done by me.
 
-You can use iBSS that’s patched in iOS 6.1.3 for N90 and N92 to load iBEC if doing tethered dual-boot (meaning the bootchain files are being loaded in multi_kloader). If its untethered (NOR method) then there’s no need for iBSS, just boot from patched LLB. :P
+You can use the iBSS that’s patched in iOS 6.1.3 for N90 and N92 to load iBEC if doing tethered dual-boot (meaning the bootchain files are being loaded from the filesystem, not from NOR). If its untethered (NOR method, meaning iBEC is loaded from NOR by LLB) then there’s no need for iBSS, just boot from patched LLB. :P
 
 Good links to use are: 
   - Nyan Satan's Dual Boot Guide https://nyansatan.github.io/dualboot/ Cydia Repo: nyansatan.github.io/apt
