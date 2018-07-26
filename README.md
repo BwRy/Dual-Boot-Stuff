@@ -1,8 +1,6 @@
-Note that all this stuff is not mine. All credits go to their respective owners...
+Note that all of the programs are not mine. All credits go to their respective owners...
 
 All patches are done by me.
-
-You can use the iBSS that’s patched in iOS 6.1.3 for N90 and N92 to load iBEC if doing tethered dual-boot (meaning the bootchain files are being loaded from the filesystem, not from NOR). If its untethered (NOR method, meaning iBEC is loaded from NOR by LLB) then there’s no need for iBSS, just boot from patched LLB. :P
 
 Good links to use are: 
   - Nyan Satan's Dual Boot Guide https://nyansatan.github.io/dualboot/ Cydia Repo: nyansatan.github.io/apt
@@ -27,3 +25,12 @@ Good links to use are:
 	-Axi0mX: kloader 32-bit (4.0-9.3.5) 64-bit (7.0-8.4.1)
 	
 	-Jonathan Seals: Helped clear some things up for me :D
+
+###
+
+Guide on using fuzzy_patcher
+
+If you want to create a diff from a patched file, do "--diff --delta x.json (replace x with path and name you want your .json file) --orig (original/unpatched file) --patched (patched file)
+
+If you want to use a diff file and use one of the main features on fuzzy_patcher "fuzz" to use fuzzy_patcher to fuzz the patches in the json file and apply them to an unpatched file.
+Do --patch --fuzz (use 80 to begin with, if patches are not 100% go down, in decrements of 5 or 10) --orig (original/unpatched file) --patched (name of patched file)

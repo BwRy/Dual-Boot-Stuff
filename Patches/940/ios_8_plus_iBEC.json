@@ -1,0 +1,77 @@
+{
+    "patches":
+    [
+        {
+            "patternBytes": "e2 02 00 00 0a 04 c0 5c e2 04 20 80 e4 fc ff ff ca 70 01 9f e5 0f e0 a0 e1 10 ff 2f e1 fe ff ff ea 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 69 42 45 43 20 66 6f 72 20",
+            "patchBytes": "6e 61 6e 64 30 63",
+            "patchOffset": "64",
+            "secondMatchCorrelation": "0.8672209382057189941",
+            "adjustedSecondMatchCorrelation": "0.08875765794619823457",
+            "comment": "Original offset: 1c3"
+        },
+        {
+            "patternBytes": "9a 42 f3 9f b2 3e f3 9f a7 42 f3 9f a8 3e f3 9f ae 42",
+            "patchBytes": "71 3e",
+            "patchOffset": "8",
+            "secondMatchCorrelation": "0.7790812253952026367",
+            "adjustedSecondMatchCorrelation": "0.7319449577462768808",
+            "comment": "Original offset: 11e4"
+        },
+        {
+            "patternBytes": "15 f0 2c f8 01 e0 15 f0 2f f8 60 b1 01 79 11 f0 02 0f f8 d0 38 30",
+            "patchBytes": "0c 48 00 bf 00 bf 00 bf 00 bf 00 bf 00 bf 00 bf 00 bf 00 bf 00 bf",
+            "patchOffset": "0",
+            "secondMatchCorrelation": "0.4375",
+            "adjustedSecondMatchCorrelation": "0.4375",
+            "comment": "Original offset: 13a8"
+        },
+        {
+            "patternBytes": "4f f0 ff 30 80 bd 00 bf 09 44 f3 9f 2d 44 f3 9f c0 b5 1f",
+            "patchBytes": "c3 01 f0",
+            "patchOffset": "8",
+            "secondMatchCorrelation": "0.6337705254554748535",
+            "adjustedSecondMatchCorrelation": "0.565477132664527482",
+            "comment": "Original offset: 13dc"
+        },
+        {
+            "patternBytes": "04 04 0e ab 29 46 22 46 ff f7 98 fc 10 b9 00 20 09 90 0b e0",
+            "patchBytes": "00 20 18 60",
+            "patchOffset": "8",
+            "secondMatchCorrelation": "0.5568379759788513184",
+            "adjustedSecondMatchCorrelation": "0.4810177004032061832",
+            "comment": "Original offset: 19ad0"
+        },
+        {
+            "patternBytes": "00 bf 0a ac f3 9f 20 20 05 f0 c3 fc 01 28 02 bf 16 98 01 21",
+            "patchBytes": "01 20 01 20",
+            "patchOffset": "8",
+            "secondMatchCorrelation": "0.7354261875152587891",
+            "adjustedSecondMatchCorrelation": "0.681041948687238774",
+            "comment": "Original offset: 1a59a"
+        },
+        {
+            "patternBytes": "01 f0 8b fe 8b 49 00 2e 8b 4c 18 bf 0c 46 b0 f1 ff",
+            "patchBytes": "8a",
+            "patchOffset": "8",
+            "secondMatchCorrelation": "0.488029181957244873",
+            "adjustedSecondMatchCorrelation": "0.4079033194541110685",
+            "comment": "Original offset: 1b4c6"
+        },
+        {
+            "patternBytes": "5d b3 f3 9f 8c 48 f4 9f 02 b2 f3 9f 28 48 f3 9f 2a b2 f3",
+            "patchBytes": "10 2b f4",
+            "patchOffset": "8",
+            "secondMatchCorrelation": "0.6809438467025756836",
+            "adjustedSecondMatchCorrelation": "0.6185703864976771493",
+            "comment": "Original offset: 1b6f0"
+        },
+        {
+            "patternBytes": "52 65 6c 69 61 6e 63 65 20 6f 6e 20 74 68 69 73 20 63 65 72 74 69 66 69 63 61 74 65 20 62 79 20 61 6e 79 20 70 61 72 74 79 20 61 73 73 75 6d 65 73 20 61 63 63 65 70 74 61 6e 63 65 20 6f 66 20 74 68 65 20 74 68 65 6e 20 61 70 70",
+            "patchBytes": "72 64 3d 64 69 73 6b 30 73 31 73 33 20 61 6d 66 69 3d 30 78 66 66 20 63 73 5f 65 6e 66 6f 72 63 65 6d 65 6e 74 5f 64 69 73 61 62 6c 65 3d 31 20 61 6d 66 69 5f 67 65 74 5f 6f 75 74 5f 6f 66 5f 6d 79 5f 77 61 79 3d 31 20 2d 76 00",
+            "patchOffset": "0",
+            "secondMatchCorrelation": "0.5016447305679321289",
+            "adjustedSecondMatchCorrelation": "0.5016447305679321289",
+            "comment": "Original offset: 42b10"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "patches":
+    [
+        {
+            "patternBytes": "35 48 00 24 0a f0 f7 fb c4 f6 f0 74 00 20 07 f0 08 ff 06",
+            "patchBytes": "cb f6 d0",
+            "patchOffset": "8",
+            "secondMatchCorrelation": "0.510578453540802002",
+            "adjustedSecondMatchCorrelation": "0.4315966891547509121",
+            "comment": "Original offset: 8c6"
+        },
+        {
+            "patternBytes": "01 38 50 60 23 60 03 f0 79 fc 0d 46 06 46 07 e0 30 46 29 46 42 46 00 23 03 f0",
+            "patchBytes": "00 bf 00 bf 06 46 00 2e 00 bf",
+            "patchOffset": "8",
+            "secondMatchCorrelation": "0.7526463866233825684",
+            "adjustedSecondMatchCorrelation": "0.7010334262280863982",
+            "comment": "Original offset: 4674"
+        },
+        {
+            "patternBytes": "05 f0 04 fc 03 90 48 f2 04 01 03 aa 04 23 28 46 ff f7 a0 ff 00 28 01 46 6c d1 05 f0 f9 fb 03 90 48 f2 05 01",
+            "patchBytes": "00 20 18 60",
+            "patchOffset": "16",
+            "secondMatchCorrelation": "0.7414062023162841797",
+            "adjustedSecondMatchCorrelation": "0.5496831568330549089",
+            "comment": "Original offset: 63dc"
+        }
+    ]
+}

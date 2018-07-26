@@ -1,0 +1,15 @@
+#!/bin/bash
+
+echo "Removing shit..."
+
+rm applelogo ramdisk devicetree
+rm -r Firmware
+rm *.dmg
+rm iBEC*
+rm LLB*
+rm iBSS*
+rm dtre*
+rm kernelcache*
+rm *.plist
+
+echo "Done :P"
