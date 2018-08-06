@@ -43,11 +43,11 @@ d8d427	 //Collapsed line
 2e2f30	 //Line prefix: library function
 a9b217	 //Line prefix: regular function
 ffff00	 //Line prefix: instruction
-000000	 //Line prefix: data
+c8c8c8	 //Line prefix: data
 928515	 //Line prefix: unexplored
 808080	 //Line prefix: externs
 008080	 //Line prefix: current item
-ff00ff	 //Line prefix: current line
+f465bf	 //Line prefix: current line
 000000	 //Punctuation
 ff0000	 //Opcode bytes
 000000	 //Manual operand

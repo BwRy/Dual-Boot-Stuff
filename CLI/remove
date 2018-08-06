@@ -6,6 +6,7 @@ rm applelogo ramdisk devicetree
 rm -r Firmware
 rm *.dmg
 rm iBEC*
+rm iBoot.*
 rm LLB*
 rm iBSS*
 rm dtre*
