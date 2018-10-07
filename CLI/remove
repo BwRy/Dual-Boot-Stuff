@@ -2,15 +2,17 @@
 
 echo "Removing shit..."
 
-rm applelogo ramdisk devicetree
-rm -r Firmware
-rm *.dmg
-rm iBEC*
-rm iBoot.*
-rm LLB*
-rm iBSS*
-rm dtre*
-rm kernelcache*
-rm *.plist
+rm -f applelogo ramdisk devicetree
+rm -rf Firmware
+rm -f *.dmg
+rm -f iBEC*
+rm -f iBoot.*
+rm -f LLB*
+rm -f iBSS*
+rm -f dtre*
+rm -f kernelcache*
+rm -f *.plist
+rm -f *.img3
+rm -f *.dec
 
 echo "Done :P"

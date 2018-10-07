@@ -34,3 +34,4 @@ If you want to create a diff from a patched file, do "--diff --delta x.json (rep
 
 If you want to use a diff file and use one of the main features on fuzzy_patcher "fuzz" to use fuzzy_patcher to fuzz the patches in the json file and apply them to an unpatched file.
 Do --patch --fuzz (use 80 to begin with, if patches are not 100% go down, in decrements of 5 or 10) --orig (original/unpatched file) --patched (name of patched file)
+
