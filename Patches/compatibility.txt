@@ -17,7 +17,9 @@ Tested patches:
 	
 	- 2,1_6.x_iBSS.json 6.0 -> 6.1.6 100%
 
-	- 2,1_6.x_iBEC.json 6.0 -> 6.1.6 (requires fuzz level of 72 to achieve 100% | look at patches)
+	- 2,1_6.0.x_iBEC.json 6.0 -> 6.0.1 100% (iBEC patches for iOS 6.0.x patches do not apply for 6.1.x)
+
+	- 2,1_6.1.x_iBEC.json 6.1 -> 6.1.6 100%
 
 ---------------------------------------------------------------------------------------------------------
 
