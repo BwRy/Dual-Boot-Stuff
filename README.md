@@ -5,10 +5,10 @@ All patches are done by me.
 Good links to use are: 
   - Nyan Satan's Dual Boot Guide https://nyansatan.github.io/dualboot/ Cydia Repo: nyansatan.github.io/apt
   - ShadowLee19's Dual/Triple Boot Guide: http://www.pmbonneau.com/apple/ios/multiboot.php (Use Google Translate if you don't know French) Cydia Repo: pmbonneau.com/cydia
-  
+  - Mine: Coming Soon (I promise this time :D)
   Credits:
   
-	-Nyan Satan: Dual boot guide, WayOut, Dualbootstuff via Cydia repo, and for helping me :D
+	-Nyan Satan: Dualboot guide, WayOut, Dualbootstuff via Cydia repo, and for guiding me the whole way :D
 	
 	-Planetbeing: Dmg, Imagetool, Ibootim, Xpwntool from xpwn
 	
@@ -20,18 +20,12 @@ Good links to use are:
 
 	-Zeex: ida_patcher
 
-	-iH8Sn0w/Tihmstar: iBoot32Patcher
+	-iH8Sn0w/Tihmstar/NyanSatan/Me: iBoot32Patcher
 	
-	-Axi0mX: kloader 32-bit (4.0-9.3.5) 64-bit (7.0-8.4.1)
+	-Axi0mX/Winocm: kloader
 	
-	-Jonathan Seals: Helped clear some things up for me :D
+	-Jonathan Seals: CBPatcher (Helped clear some things up for me; also, is always correcting me when I make an oof on twitter :D)
 
-###
 
-Guide on using fuzzy_patcher
 
-If you want to create a diff from a patched file, do "--diff --delta x.json (replace x with path and name you want your .json file) --orig (original/unpatched file) --patched (patched file)
-
-If you want to use a diff file and use one of the main features on fuzzy_patcher "fuzz" to use fuzzy_patcher to fuzz the patches in the json file and apply them to an unpatched file.
-Do --patch --fuzz (use 80 to begin with, if patches are not 100% go down, in decrements of 5 or 10) --orig (original/unpatched file) --patched (name of patched file)
 
