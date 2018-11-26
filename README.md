@@ -6,11 +6,12 @@ Good links to use are:
   - Nyan Satan's Dual Boot Guide https://nyansatan.github.io/dualboot/ Cydia Repo: nyansatan.github.io/apt
   - ShadowLee19's Dual/Triple Boot Guide: http://www.pmbonneau.com/apple/ios/multiboot.php (Use Google Translate if you don't know French) Cydia Repo: pmbonneau.com/cydia
   - Mine: Coming Soon (I promise this time :D)
+
   Credits:
   
 	-Nyan Satan: Dualboot guide, WayOut, Dualbootstuff via Cydia repo, and for guiding me the whole way :D
 	
-	-Planetbeing: Dmg, Imagetool, Ibootim, Xpwntool from xpwn
+	-Planetbeing: Dmg, Imagetool, ibootim, xpwntool from xpwn
 	
 	-Danzatt: Reimagine
 
