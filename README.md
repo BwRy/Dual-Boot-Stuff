@@ -5,7 +5,7 @@ All patches are done by me.
 Good links to use are: 
   - Nyan Satan's Dual Boot Guide https://nyansatan.github.io/dualboot/ Cydia Repo: nyansatan.github.io/apt
   - ShadowLee19's Dual/Triple Boot Guide: http://www.pmbonneau.com/apple/ios/multiboot.php (Use Google Translate if you don't know French) Cydia Repo: pmbonneau.com/cydia
-  - Mine: Coming Soon (I promise this time :D)
+  - Mine: https://merculous.github.io/dualboot (unfinished but most things like IDA interaction is briefly "dumbed down.") 
 
   Credits:
   
@@ -26,7 +26,6 @@ Good links to use are:
 	-Axi0mX/Winocm: kloader
 	
 	-Jonathan Seals: CBPatcher (Helped clear some things up for me; also, is always correcting me when I make an oof on twitter :D)
-
 
 
 
