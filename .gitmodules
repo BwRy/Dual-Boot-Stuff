@@ -11,5 +11,5 @@
         path = build/CBPatcher
         url = https://github.com/JonathanSeals/CBPatcher.git
 [submodule "IDA\ Stuff\tools/diaphora"]
-        path = IDA\ Stuff/tools/diaphora
+        path = IDA Stuff/tools/diaphora
         url = https://github.com/joxeankoret/diaphora.git
