@@ -7,9 +7,9 @@
 [submodule "build/iBoot32Patcher"]
 	path = build/iBoot32Patcher
 	url = https://github.com/NyanSatan/iBoot32Patcher.git
+[submodule "IDA Stuff/tools/diaphora"]
+	path = IDA Stuff/tools/diaphora
+	url = https://github.com/joxeankoret/diaphora.git
 [submodule "build/CBPatcher"]
-        path = build/CBPatcher
-        url = https://github.com/JonathanSeals/CBPatcher.git
-[submodule "IDA\ Stuff\tools/diaphora"]
-        path = IDA Stuff/tools/diaphora
-        url = https://github.com/joxeankoret/diaphora.git
+	path = build/CBPatcher
+	url = https://github.com/JonathanSeals/CBPatcher.git
